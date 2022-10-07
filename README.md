@@ -10,3 +10,7 @@
 3) Enter comman "pod install" to install pods
 4) Open project in XCode (Double click on ScannerTestJob.xcworkspace file)
 5) Select device or simulator and press run button or press command + r after device selection
+
+### GIF
+<img src="ezgif.com-gif-maker.gif" height="500" width="250">
+
